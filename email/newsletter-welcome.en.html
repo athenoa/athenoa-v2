@@ -1,0 +1,115 @@
+<!doctype html>
+<!--
+  ATHENOA: the welcome email after a newsletter sign-up, in ENGLISH (a draft translation for Athena to
+  approve) for those who signed up on the English pages; the Greek is newsletter-welcome.el.html. EVERGREEN (Maria, 23 November 2026): no dated
+  courses, so it never goes out of date; one way to the courses page, which is always current.
+  Wording proposed, for Athena to approve. Email-safe: tables, inline styles, fallback fonts, images (no
+  SVG: email programs drop it) from {{ASSETS}}.
+  Placeholders: {{ASSETS}}, {{SITE}}, {{UNSUBSCRIBE_URL}}. The newsletter-welcome function reads this
+  file from the site and fills them in, so a change here goes out with the next push.
+  Signature: signature.gif, which writes itself once (the last frame holds).
+  English: newsletter-welcome.en.html, sent to those who signed up on the English pages.
+-->
+<html lang="en">
+<head><meta name="robots" content="noindex, nofollow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light only">
+<title>Welcome to ATHENOA</title>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  /* below the last row the window shows the ribbon's blue, so nothing pale sits under it (Maria, 24 November 2026) */
+  body { margin: 0; padding: 0; background: #0b1c8c; }
+  a { color: #0b1c8c; }
+  /* under 680 the card is 88.235% of the window, and its foot with it */
+  @media (max-width: 680px) {
+    .foot { background-size: 88.235% auto !important; }
+    .land-d { display: none !important; }
+    .land-m { display: block !important; width: 100% !important; max-height: none !important; height: auto !important; }
+  }
+  @media (max-width: 620px) {
+    .pad { padding-left: 26px !important; padding-right: 26px !important; }
+    .h1 { font-size: 36px !important; }
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background-color:#0b1c8c;">
+<!-- preheader: the line inboxes show after the subject -->
+<div style="display:none;max-height:0;overflow:hidden;mso-hide:all;">Thank you for joining our community.&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+<!-- the whole email lies on the site's grained paper -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" background="{{ASSETS}}/paper.jpg" style="background-color:#f2e9d3;background-image:url('{{ASSETS}}/paper.jpg');">
+<tr><td align="center" style="padding:32px 0 0;">
+
+  <!-- 680 wide: the sheet (600) in the middle; the landscape follows across the whole width -->
+  <table role="presentation" width="680" cellpadding="0" cellspacing="0" style="width:100%;max-width:680px;">
+  <tr><td align="center" style="padding:0;">
+
+  <table role="presentation" class="sheet" width="88.235%" cellpadding="0" cellspacing="0" background="{{ASSETS}}/sheet.jpg" style="width:88.235%;overflow:hidden;background-color:#f9f3e3;background-image:url('{{ASSETS}}/sheet.jpg');border-radius:28px 28px 0 0;border:1px solid #e2d6b8;border-bottom:0;">
+
+    <!-- the emblem and name -->
+    <tr><td align="center" style="padding:36px 40px 6px;" class="pad">
+      <a href="{{SITE}}/en/" style="text-decoration:none;">
+        <img src="{{ASSETS}}/logo.png" width="56" height="55" alt="ATHENOA" style="display:block;border:0;margin:0 auto;">
+      </a>
+      <p style="margin:10px 0 0;font-family:'EB Garamond',Garamond,Georgia,serif;font-size:20px;letter-spacing:4px;color:#0b1c8c;">ATHENOA</p>
+    </td></tr>
+
+    <!-- the welcome (the laurel above it removed, to keep the email short: Maria, 24 November 2026) -->
+    <tr><td align="center" style="padding:26px 48px 0;" class="pad">
+      <h1 class="h1" style="margin:0;font-family:'EB Garamond',Garamond,Georgia,serif;font-weight:400;font-size:42px;line-height:1.08;color:#0b1c8c;">Welcome<br>to the Academy</h1>
+    </td></tr>
+
+    <tr><td style="padding:26px 56px 0;font-family:'EB Garamond',Garamond,Georgia,serif;font-size:19px;line-height:1.62;color:#071260;" class="pad">
+      <p style="margin:0 0 14px;">Thank you warmly for becoming part of our community.</p>
+      <p style="margin:0 0 14px;">From now on you will be the first to hear the Academy’s news: new Cycles of Studies, seminars, articles and gatherings, on the path of Greek Philosophy and of Light.</p>
+      <p style="margin:0;">Until then, I invite you to discover the Cycles of Studies running this season.</p>
+    </td></tr>
+
+    <!-- the one way in: the courses page, always current -->
+    <tr><td align="left" style="padding:24px 56px 0;" class="pad">
+      <a href="{{SITE}}/en/courses/" style="display:inline-block;padding:13px 30px;background:#0b1c8c;color:#f9f3e3;border-radius:999px;font-family:'EB Garamond',Garamond,Georgia,serif;font-size:18px;text-decoration:none;border-bottom:4px solid #020627;">See the Cycles of Studies</a>
+    </td></tr>
+
+    <!-- signed by Athena: her photograph beside her name -->
+    <tr><td style="padding:38px 56px 0;" class="pad">
+      <table role="presentation" cellpadding="0" cellspacing="0">
+        <tr>
+          <!-- one row, top-aligned: the photograph runs from the top of the greeting to the foot of the signature -->
+          <td valign="top" style="padding-right:18px;">
+            <img src="{{ASSETS}}/athena.png" width="90" height="90" alt="Dr. Athena Despoina Potari" style="display:block;border:0;width:90px;height:90px;">
+          </td>
+          <td valign="top" style="font-family:'EB Garamond',Garamond,Georgia,serif;color:#071260;">
+            <p style="margin:0;font-style:italic;font-size:18px;line-height:26px;color:#2c3a8f;">With joy and enthusiasm,</p>
+            <!-- her own hand: a GIF that writes the signature once, letters then the star (Maria, 23 November 2026) -->
+            <img src="{{ASSETS}}/signature.gif" width="128" height="55" alt="Athena" style="display:block;border:0;width:128px;height:55px;margin:9px 0 6px -3px;">
+            <p style="margin:0;font-size:16px;line-height:1.3;color:#0b1c8c;">Dr. Athena Despoina Potari</p>
+          </td>
+        </tr>
+      </table>
+    </td></tr>
+
+    <!-- foot: the icons; the landscape follows, over the card's foot -->
+    <tr><td align="center" style="padding:38px 48px 10px;font-family:'EB Garamond',Garamond,Georgia,serif;font-size:14px;line-height:1.6;color:#4a5288;" class="pad">
+      <!-- the Academy elsewhere, as icons; the logo at the top links to the site -->
+      <p style="margin:0;line-height:24px;"><a href="https://www.instagram.com/athena_potari/" style="text-decoration:none;"><img src="{{ASSETS}}/icon-instagram.png" width="24" height="24" alt="Instagram" style="display:inline-block;border:0;width:24px;height:24px;margin:0 9px;vertical-align:middle;"></a><a href="https://www.youtube.com/@athenoa" style="text-decoration:none;"><img src="{{ASSETS}}/icon-youtube.png" width="24" height="24" alt="YouTube" style="display:inline-block;border:0;width:24px;height:24px;margin:0 9px;vertical-align:middle;"></a><a href="https://www.facebook.com/athenapotari/" style="text-decoration:none;"><img src="{{ASSETS}}/icon-facebook.png" width="24" height="24" alt="Facebook" style="display:inline-block;border:0;width:24px;height:24px;margin:0 9px;vertical-align:middle;"></a></p>
+    </td></tr>
+
+  </table>
+
+  </td></tr>
+  </table>
+
+</td></tr>
+<!-- the landscape across the whole width of the email, over the card's foot (Maria, 24 November 2026). The foot
+     is a background picture centred under the card, so it lines up at any width; where background pictures
+     are not shown (Outlook on Windows), the card simply ends where the landscape begins. -->
+<tr><td class="foot" align="center" style="padding:0;line-height:0;font-size:0;background-image:url('{{ASSETS}}/card-foot.png');background-repeat:no-repeat;background-position:center top;background-size:600px auto;">
+  <img class="land-d" src="{{ASSETS}}/olympus-full.png" width="1600" alt="" style="display:block;width:100%;height:auto;border:0;">
+  <!-- on phones: the middle half of the scene, twice as tall (Maria, 24 November 2026) -->
+  <img class="land-m" src="{{ASSETS}}/olympus-mobile.png" width="800" alt="" style="display:none;width:0;max-height:0;border:0;mso-hide:all;">
+</td></tr>
+<!-- a thin blue ribbon right under the landscape, with the unsubscribe (Maria, 24 November 2026) -->
+<tr><td align="center" bgcolor="#0b1c8c" style="background-color:#0b1c8c;padding:5px 16px 6px;font-family:'EB Garamond',Garamond,Georgia,serif;font-size:12px;line-height:16px;color:#f9f3e3;"><a href="{{UNSUBSCRIBE_URL}}" style="color:#f9f3e3;text-decoration:underline;">Unsubscribe</a></td></tr>
+</table>
+</body>
+</html>

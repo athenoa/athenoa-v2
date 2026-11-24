@@ -1,0 +1,31 @@
+# ATHENOA
+
+> ATHENOA is a Cultural Sanctuary which rekindles Ancient Hellenic Wisdom as a living path of self-realization, sacred education, and civic virtue.
+
+Guided by the Archetype of Goddess Athena, we illuminate the way from intellectual learning to embodied knowing, from philosophy to inner awakening—restoring our relationship with Nature, with Soul, and with the World.
+
+- Email: philathenea@athenoa.academy
+- Phone Number: (0030) 690-606-8444
+- Contact form: https://www.athenoa.academy/en/about-athena/#contact
+- Facebook: https://www.facebook.com/athenapotari/
+- Instagram: https://www.instagram.com/athena_potari/
+- YouTube: https://www.youtube.com/@athenoa
+- WhatsApp: https://wa.me/306906068444
+- The links below are Markdown copies of the web pages. Each copy gives the address of its web page under `canonical`.
+
+## Pages
+
+- [Home](https://www.athenoa.academy/en/index.md): Now you can become an annual Academy Member! · Orphic Hymns - The essence of the Spiritual Technology of the Greeks · Explore our new course series · Ancient Thought for a Sustainable Future · Benefits of Joining ATHENOA
+- [About Dr. Athena Potari](https://www.athenoa.academy/en/about-athena.md): Dr. Athena Despoina Potari is a Doctor of Philosophy at the University of Oxford, holder of a Master’s Degree specializing in Platonic Polity and Cosmology, and founder of the Philosophical Academy “ATHENOA”.
+- [Live Courses](https://www.athenoa.academy/en/courses.md): Study at the Modern Platonic Academy & Remember Who You Really Are
+
+## Live Courses
+
+- [Odyssey](https://www.athenoa.academy/en/courses/odusseia.md): In this Cycle of Studies in Greek Philosophy we will study the Odyssey as a timeless treasure of Wisdom, a symbolic Map of the human Soul and of its Journey to Self-knowledge and Awakening.
+- [Εὖ Ζῆν](https://www.athenoa.academy/en/courses/eu-zen.md): Philosophy as the Art of Living: an experiential path to becoming, each day, who we truly are.
+
+## Optional
+
+- [llms-full.txt](https://www.athenoa.academy/en/llms-full.txt): Every page above in one file
+- [Ελληνικά](https://www.athenoa.academy/llms.txt)
+- [Ἀρχαία Ἑλληνική](https://www.athenoa.academy/grc/llms.txt)

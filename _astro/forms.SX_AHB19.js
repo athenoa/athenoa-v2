@@ -1,0 +1,1 @@
+async function e(e,t){let n=await fetch(`https://czfcjxzngedjjskybvos.supabase.co/rest/v1/${e}`,{method:`POST`,headers:{apikey:`sb_publishable_UsD5ub8WtH_XAnwxU0OrtA_HIjD5H2C`,"Content-Type":`application/json`,Prefer:`return=minimal`},body:JSON.stringify(t)});if(!n.ok&&n.status!==409)throw Error(`${n.status} ${await n.text()}`)}export{e as t};
