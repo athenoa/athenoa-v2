@@ -13,7 +13,7 @@ Study at the Modern Platonic Academy & Remember Who You Really Are
 
 In this Cycle of Studies in Greek Philosophy we will study the Odyssey as a timeless treasure of Wisdom, a symbolic Map of the human Soul and of its Journey to Self-knowledge and Awakening.
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - Introductory lesson - Presentation of the Cycle: Monday 23 November 2026, 19:30 Greek time
 - First lesson: Thursday 26 November 2026, 19:30
 - Then: every Thursday at 19:30
@@ -26,7 +26,7 @@ In this Cycle of Studies in Greek Philosophy we will study the Odyssey as a time
 
 Philosophy as the Art of Living: an experiential path to becoming, each day, who we truly are.
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - Introductory lesson - Presentation of the Cycle: Monday 23 November 2026, 19:30 Greek time
 - First lesson: Tuesday 1 December 2026, 19:30
 - Then: Tuesdays at 19:30, about two lessons a month
@@ -39,7 +39,7 @@ Philosophy as the Art of Living: an experiential path to becoming, each day, who
 
 Each week we will delve into the non-dual teaching expressed by the following great Philosophers ~ Ancient Sages: Plotinus, Plato, Pythagoras, The Pre-Socratics
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - From January 2027
 - Four weekly meetings
 - Live on Zoom, recordings for 120 days

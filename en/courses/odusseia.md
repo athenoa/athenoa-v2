@@ -9,7 +9,7 @@ lang: en
 
 In this Cycle of Studies in Greek Philosophy we will study the Odyssey as a timeless treasure of Wisdom, a symbolic Map of the human Soul and of its Journey to Self-knowledge and Awakening.
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - Introductory lesson - Presentation of the Cycle: Monday 23 November 2026, 19:30 Greek time
 - First lesson: Thursday 26 November 2026, 19:30
 - Then: every Thursday at 19:30

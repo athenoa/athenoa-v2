@@ -9,7 +9,7 @@ lang: en
 
 Philosophy as the Art of Living: an experiential path to becoming, each day, who we truly are.
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - Introductory lesson - Presentation of the Cycle: Monday 23 November 2026, 19:30 Greek time
 - First lesson: Tuesday 1 December 2026, 19:30
 - Then: Tuesdays at 19:30, about two lessons a month

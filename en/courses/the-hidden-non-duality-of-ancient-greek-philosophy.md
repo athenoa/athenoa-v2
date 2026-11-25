@@ -9,7 +9,7 @@ lang: en
 
 Each week we will delve into the non-dual teaching expressed by the following great Philosophers ~ Ancient Sages: Plotinus, Plato, Pythagoras, The Pre-Socratics
 
-- With Dr. Athena Despoina Potari
+- With Dr. Athena D. Potari
 - From January 2027
 - Four weekly meetings
 - Live on Zoom, recordings for 120 days
