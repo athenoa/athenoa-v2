@@ -35,6 +35,16 @@ Philosophy as the Art of Living: an experiential path to becoming, each day, who
 - Language: Greek
 - Tuition: €640 or 8 × €80
 
+## [The Hidden Non-Duality of Ancient Greek Philosophy](https://www.athenoa.academy/en/courses/the-hidden-non-duality-of-ancient-greek-philosophy.md)
+
+Each week we will delve into the non-dual teaching expressed by the following great Philosophers ~ Ancient Sages: Plotinus, Plato, Pythagoras, The Pre-Socratics
+
+- With Dr. Athena Despoina Potari
+- From January 2027
+- Four weekly meetings
+- Live on Zoom, recordings for 120 days
+- Language: English
+
 ## Contact us
 
 Contact us regarding our work, upcoming courses, retreats, articles and more.

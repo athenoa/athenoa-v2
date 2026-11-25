@@ -73,16 +73,16 @@ Registrations are open until 30 December 2026. After that, please contact the [A
 
 ### Standard Tuition
 
-**€495** paid upfront, for the whole Cycle (~~€550~~ −10%)
+**€550** for the whole Cycle
 
 **€68.75** / month × 8 (€550 in all)
 
-- [Proceed](https://book.stripe.com/cNi4gA7Mk1cndBT7Fu9sk0n)
+- [Proceed](https://book.stripe.com/4gM28s5Ecf3dgO5cZO9sk06)
 - [Proceed](https://buy.stripe.com/3cI7sM5EcbR141jbVK9sk08)
 
 ### Tuition of Love
 
-**€594** paid upfront, for the whole Cycle (~~€660~~ −10%)
+**€660** for the whole Cycle
 
 **€82.50** / month × 8 (€660 in all)
 
@@ -90,7 +90,7 @@ It includes the standard tuition and a sponsorship for fellow students who need 
 
 And an optional one-to-one session with Athena for your questions.
 
-- [Proceed](https://book.stripe.com/14AeVe8QoaMX7dve3S9sk0o)
+- [Proceed](https://book.stripe.com/3cI5kEfeM2greFX3pe9sk07)
 - [Proceed](https://buy.stripe.com/9B6dRaeaI8EPfK1f7W9sk09)
 
 Registration is for the whole Cycle of Studies and requires payment of the full amount, whichever way of paying you choose.
